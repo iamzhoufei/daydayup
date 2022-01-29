@@ -45,7 +45,7 @@ var kthGrammar = function (n, k) {
     const length = 2 ** (n - 1);
     const mid = length / 2;
 
-    // 除第一行以外，在每一行字符中，前半段就是前一行，后半段时前一行的反转
+    // 除第一行以外，在每一行字符中，前半段就是前一行，后半段是前一行的反转
     // 前后半段如何区分？长度的中点，mid = length / 2，如果 k < mid，就在前半段；反之就在后半段
 
     // 判断 k 的位置，如果k在前半段，直接返回上一行的第k个值 kthGrammar(n-1, k) 即可
