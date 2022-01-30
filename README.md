@@ -13,3 +13,9 @@
 5、[【算法刷题记录】779. 第K个语法符号](https://www.bilibili.com/video/BV1cr4y1Y7CC/)
 
 6、[【算法刷题记录】222. 完全二叉树的节点个数](https://www.bilibili.com/video/BV1c44y1x7o9/)
+
+7、[【算法刷题记录】144. 二叉树的前序遍历（递归法）](https://www.bilibili.com/video/BV1MS4y117f1/)
+
+7、[【算法刷题记录】144. 二叉树的前序遍历（递归与栈）](https://www.bilibili.com/video/BV19R4y1T7SD/)
+
+7、[【算法刷题记录】144. 二叉树的前序遍历（迭代法）](https://www.bilibili.com/video/BV1mY411t7FA/)
