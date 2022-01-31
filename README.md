@@ -19,3 +19,7 @@
 7、[【算法刷题记录】144. 二叉树的前序遍历（递归与栈）](https://www.bilibili.com/video/BV19R4y1T7SD/)
 
 7、[【算法刷题记录】144. 二叉树的前序遍历（迭代法）](https://www.bilibili.com/video/BV1mY411t7FA/)
+
+8、[【算法刷题记录】100. 相同的树](https://www.bilibili.com/video/BV1e44y1p7xj/)
+
+9、[【算法刷题记录】剑指 Offer 26. 树的子结构](https://www.bilibili.com/video/BV13F411J7fw/)
