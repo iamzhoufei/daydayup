@@ -27,3 +27,5 @@
 0010.[【算法刷题记录】102. 二叉树的层序遍历](https://www.bilibili.com/video/BV11i4y1Z7BF/)
 
 0011.[【算法刷题记录】226. 翻转二叉树](https://www.bilibili.com/video/BV1a34y1y7dQ/)
+
+0012.[【算法刷题记录】968. 监控二叉树](https://www.bilibili.com/video/BV1nZ4y1o779/)
