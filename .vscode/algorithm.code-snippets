@@ -1,0 +1,19 @@
+{
+  // vue3 + ts
+  "algorithm": {
+    "scope": "javascript",
+    "prefix": "algorithm",
+    "body": [
+      "/**",
+      "* 题目：",
+      "* 链接：",
+      "* GitHub：https://github.com/iamzhoufei",
+      "*/",
+      "",
+      "/** ",
+      "",
+      "*/"
+    ],
+    "description": "algorithm-template"
+  }
+}
